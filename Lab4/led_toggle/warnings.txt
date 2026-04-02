@@ -1,0 +1,4 @@
+C:\Users\sakak\OneDrive\Desktop\SPRING 26\ME 235\ME235-Labs\Lab4\led_toggle\ESP32 Continuous Serial Write and Read.vi (ESP32 Continuous Serial Write and Read.vi)
+    - The control expected to be at "C:\Users\sakak\OneDrive\Desktop\SPRING 26\ME 235\ME235-Labs\Lab4\led_toggle\Serial - Settings.ctl" was loaded from "C:\Users\sakak\OneDrive\Desktop\SPRING 26\ME 235\ME235-Labs\Lab4\Serial - Settings.ctl".
+    - The control expected to be at "C:\Users\sakak\OneDrive\Desktop\SPRING 26\ME 235\ME235-Labs\Lab4\led_toggle\ESP32-PSOC-State Machine-1.ctl" was loaded from "C:\Users\sakak\OneDrive\Desktop\SPRING 26\ME 235\ME235-Labs\Lab4\ESP32-PSOC-State Machine-1.ctl".
+    - The control expected to be at "C:\Users\sakak\OneDrive\Desktop\SPRING 26\ME 235\ME235-Labs\Lab4\led_toggle\Control 1.ctl" was loaded from "C:\Users\sakak\OneDrive\Desktop\SPRING 26\ME 235\ME235-Labs\Lab4\Control 1.ctl".
