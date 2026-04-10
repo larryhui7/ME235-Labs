@@ -3,7 +3,7 @@
   "idf.openOcdConfigs": [
     "board/esp32-wrover-kit-3.3v.cfg"
   ],
-  "idf.portWin": "COM3",
+  "idf.portWin": "COM6",
   "idf.currentSetup": "C:\\esp\\v6.0\\esp-idf",
   "idf.customExtraVars": {
     "IDF_TARGET": "esp32"
@@ -12,6 +12,8 @@
   "clangd.arguments": [
     "--background-index",
     "--query-driver=**",
-    "--compile-commands-dir=c:\\Users\\sakak\\OneDrive\\Desktop\\SPRING 26\\ME 235\\ME235-Labs\\Lab4\\uart_receiver\\build"
-  ]
+    "--compile-commands-dir=c:\\Users\\sakak\\OneDrive\\Desktop\\SPRING 26\\ME 235\\ME235-Labs\\Lab4\\ProjectGUI\\uart\\build"
+  ],
+  "idf.flashType": "UART",
+  "idf.monitorPort": "COM6"
 }
